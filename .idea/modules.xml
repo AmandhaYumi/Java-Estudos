@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosPessoa/ExercicioPessoa.iml" filepath="$PROJECT_DIR$/ExerciciosPessoa/ExercicioPessoa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioUsuario/ExercicioUsuario.iml" filepath="$PROJECT_DIR$/ExercicioUsuario/ExercicioUsuario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosMetodos/ExerciciosMetodos.iml" filepath="$PROJECT_DIR$/ExerciciosMetodos/ExerciciosMetodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosSlide/ExerciciosSlide.iml" filepath="$PROJECT_DIR$/ExerciciosSlide/ExerciciosSlide.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_26_03_25.iml" filepath="$PROJECT_DIR$/Java_26_03_25.iml" />
     </modules>
   </component>
